@@ -1,0 +1,16 @@
+*.exe
+*.out
+*.o
+*.obj
+
+users.dat
+
+.vscode/
+
+build/
+
+*.log
+
+.DS_Store
+
+*.tmp
