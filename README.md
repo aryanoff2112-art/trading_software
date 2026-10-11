@@ -55,7 +55,7 @@ Keeps complete record of every transaction.
 
 ### Colorful Console
 
-ANSI colored output for better readability.
+ANSI colored output used for better readability.
 
 ---
 
