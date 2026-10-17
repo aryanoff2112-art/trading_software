@@ -37,7 +37,7 @@ Supports:
 - Limit Buy
 - Limit Sell
 
-Orders execute automatically when market conditions are met.
+Orders execute automatically when market conditions are fulfilled.
 
 ### Portfolio
 
