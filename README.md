@@ -2,7 +2,7 @@
 
 A console-based stock market trading simulator written in modern C++ language.
 
-The simulator allows users to trade virtual stocks, maintain portfolios, place automated orders, and experience dynamic market price changes with simulated news events.
+The simulator allows users to - trade virtual stocks, maintain portfolios, place automated orders, and experience dynamic market price changes with simulated news events.
 
 ---
 
