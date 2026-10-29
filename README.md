@@ -64,7 +64,7 @@ ANSI colored output used for better readability.
 - C++
 - STL
 - File Handling
-- OOP
+- OOPS
 - Maps
 - Vectors
 - Random Number Generation
